@@ -1,0 +1,82 @@
+
+.div {
+	width: 100px;
+	height: 240%;
+	padding: 70px;
+	background-image: url(images/div1.jpeg);
+	font-size: 20px;
+	float: left;
+	text-align: justify;	
+}
+.div2 {
+	 padding-left: 250px;
+	 font-size: 23px; 
+	
+}
+.div3 {
+	width: 400px;
+	height: 400px;
+	float: left;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+.div4  {
+	float: right;
+	width: 600px;
+	height: 300px;
+	margin: -10px;
+	margin-right: -100px; 
+	margin-top: 10px;
+}
+.div5 {
+	float: left;
+	width: 500px;
+	height: 500px;
+	margin-top: 350px;	
+	margin-left: -25px;
+}
+.div6 {
+	float: left;
+	height: 400px;
+	width: 300px; 
+	margin-left: -1060px; 
+	margin-top: 350px; 
+}
+.div7 {
+	float: right;
+	width: 800px;
+	height: 300px;
+	margin-top: -400px;
+}
+.p1 {
+	text-indent: 8ch;
+    font-family: segoe ui;
+	margin-left: 30px
+	font-size: 30px;
+}
+.all {
+	background-image: url(images/background.jpeg);
+	font-family: "segoe script";
+}
+.ul {
+	 padding-left: 100px;
+	 font-family: segoe ui;
+     font-size: 22px;
+}
+.ol {
+	 font-family: segoe ui;
+	 font-size: 25px;
+	 margin: -150px;
+	 margin-top: 50px; 
+	 width: 450px;
+	 height: 320px;
+	 margin-top: 15px; 
+}
+.ol1 {
+	 font-family: segoe ui;
+	 font-size: 25px;
+	 margin-left: -10px;
+	 margin-top: 10px; 
+	 width: 400px;
+	 height: 400px;
+}
